@@ -1,0 +1,7 @@
+pylibpws.so
+pylibpws.dylib
+pymiracl.so
+pymiracl.dylib
+pymiraclvec.so
+pymiraclvec.dylib
+*.precomp
